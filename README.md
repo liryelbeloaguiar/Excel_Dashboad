@@ -9,9 +9,7 @@ Curso da Kultivi para aprender dashboard em excel
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-```
 [Curso na Kultivi](https://app.kultivi.com/dashboard/course/simplifica-excel/lesson/finalizacao-da-dashboard) - Dashboard basico em excel
-```
 
 ## ⚙️ Dashboard Finalizado
 
